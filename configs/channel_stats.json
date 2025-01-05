@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-05T11:15:21.328979",
+  "timestamp": "2025-01-05T12:37:23.191117",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -22,8 +22,8 @@
     {
       "url": "https://t.me/s/configV2rayForFree",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/v2rayngvpn",
