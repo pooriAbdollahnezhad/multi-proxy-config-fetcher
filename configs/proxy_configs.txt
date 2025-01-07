@@ -84,8 +84,6 @@ vmess://eyJhZGQiOiIxOTQuOS4xNzIuNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiIyLjU4Ljg3LjIyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkYjg1ZmYwZS1jMzNmLTQwMWQtYzQxNS00YzdjY2UxMzU3MDQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjEyMjY5IiwicHMiOiJJUi1AVjJyYXlfQWxwaGEtMTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@51.112.115.81:443#WiFi-IR%40V2ray_Alpha-3
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.57.121:443#WiFi-IR%40V2ray_Alpha-1
@@ -100,9 +98,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989#premium-us Get 1
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.71.111:989#premium-np Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.53:7306#WiFi-IR%40V2ray_Alpha-4
-
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.37.18.75:6697 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon53
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.37.18.75:6697 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon51
 
 trojan://3723507166611775488@195.133.93.10:443?security=tls&headerType=none&type=tcp&sni=social-bream.boa152.lol#WiFi-%40V2ray_Alpha-15
 
