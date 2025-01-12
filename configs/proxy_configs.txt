@@ -30,8 +30,6 @@ wireguard://yITnwp3%2FpaFhLbi0FY7WUbDFgZyg8y0NkRJrdRDsvUc%3D@188.114.96.224:4198
 
 vless://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=SDUAmbkyV3wQEEXwV9wpwTqS2qi7gOekiZNpS1jfcXc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=spotify.com&sid=d59cd3#MCI-%40V2ray_Alpha-4
 
-vless://18758238-2625-2730-3689-f157ae275ad4@spain-01.ab-841.ip-ddns.com:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=random&type=grpc&serviceName=grpc&sni=wrcgbsu.qwapples.com#IR-%40V2ray_Alpha-10
-
 vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.102:80?path=%2F%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=teleirani.ir&fp=random&type=ws&sni=teleirani.ir#MCI-%40V2ray_Alpha-5
 
 vless://257883ae-ceb5-495b-9997-f8807b300a6c@137.184.171.113:1615?security=reality&encryption=none&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com#MCI-%40V2ray_Alpha-9
@@ -55,6 +53,8 @@ vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.89.27.233:1212?security=reality&
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@52.14.124.200:1212?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a4844ba7#MCI-%40V2ray_Alpha-11
 
 vless://c538dafa-4f0d-512a-ae22-c92e2e8b56fe@5.252.23.133:2052?path=%2Fvless&security=none&encryption=none&host=5.252.23.133.&type=ws#IR-%40V2ray_Alpha-9
+
+vless://d927916a-7dca-4466-9c5e-e70c0a6879b5@91.134.61.207:18764?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://fcdea945-f87c-4b34-9241-a33adc22af97@193.107.48.105:10750?security=tls&alpn=http%2F1.1&encryption=none&host=m-net.speedtestcustom.com&headerType=http&fp=safari&type=tcp&sni=netflow.yoooka.lol#MCI-%40V2ray_Alpha-8
 
@@ -108,8 +108,6 @@ trojan://telegram-id-privatevpns@13.61.159.123:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@16.16.61.200:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@3.10.183.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@3.124.251.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.9.199.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
@@ -118,9 +116,11 @@ trojan://telegram-id-privatevpns@34.255.251.132:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@35.156.72.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@35.178.140.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@35.181.242.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@46.137.81.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
+trojan://telegram-id-privatevpns@54.73.96.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.34.134.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
