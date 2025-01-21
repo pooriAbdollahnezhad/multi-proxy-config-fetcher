@@ -74,6 +74,8 @@ ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@80.92.204.106:9046 Get 1 year premiu
 
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@54.37.18.75:8888#%F0%9F%87%AB%F0%9F%87%B7%20FR-54.37.18.75%3A8888 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.86:8888#%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.93.86%3A8888 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#%F0%9F%87%BA%F0%9F%87%B8%20US-23.150.152.16%3A2375 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://1ec653e0-d295-11ef-8eee-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp#https://t.me/ShadowsocksM
