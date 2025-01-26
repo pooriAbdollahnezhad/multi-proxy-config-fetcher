@@ -72,6 +72,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@62.12.116.66:990#%F0%9F%87%B0%F0%9F%87%AA%20KE-62.12.116.66%3A990 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqOEJwZUJRSUdJd1dZNXRMcVU1ZXlO@141.98.234.195:36766#%F0%9F%87%AD%F0%9F%87%B0%20HK-141.98.234.195%3A36766 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20NL-109.201.152.181%3A443 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.47:5500#%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.47%3A5500 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
@@ -84,6 +86,8 @@ trojan://telegram-id-privatevpns@13.42.172.101:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@13.50.229.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@15.236.107.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@15.236.83.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@16.16.85.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
@@ -95,8 +99,6 @@ trojan://telegram-id-privatevpns@18.199.215.148:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@3.76.26.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@3.76.26.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.180.163.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@35.180.163.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs آموزش استفاده از سرورها @PrivateVPNs
 
