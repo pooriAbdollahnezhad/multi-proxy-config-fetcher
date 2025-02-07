@@ -57,7 +57,7 @@ class ProxyConfig:
             ChannelConfig("https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-2.csv#Pooria2"),
             ChannelConfig("https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-3.csv#Pooria3"),
             ChannelConfig("https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-4.csv#Pooria4"),
-            ChannelConfig("https://t.me/redv2ray_channel")
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false")
         ]
 
         # Remove duplicate URLs before assigning to SOURCE_URLS
