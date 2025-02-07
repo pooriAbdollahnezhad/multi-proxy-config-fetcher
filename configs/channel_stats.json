@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-07T22:10:53.014402+00:00",
+  "timestamp": "2025-02-07T22:18:26.255495+00:00",
   "channels": [
     {
       "url": "https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv#pooria1",
@@ -8,11 +8,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.58,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.13,
-        "last_success": "2025-02-07T22:10:43.918745+00:00",
+        "overall_score": 99.41,
+        "last_success": "2025-02-07T22:18:16.939843+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.73,
-        "last_success": "2025-02-07T22:10:46.102208+00:00",
+        "overall_score": 99.83,
+        "last_success": "2025-02-07T22:18:19.053598+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.72,
-        "last_success": "2025-02-07T22:10:48.286409+00:00",
+        "overall_score": 99.83,
+        "last_success": "2025-02-07T22:18:21.166923+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.72,
-        "last_success": "2025-02-07T22:10:50.470729+00:00",
+        "overall_score": 99.83,
+        "last_success": "2025-02-07T22:18:23.279932+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -94,24 +94,24 @@
       }
     },
     {
-      "url": "https://t.me/redv2ray_channel",
-      "enabled": false,
+      "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "total_configs": 4,
+        "valid_configs": 2,
+        "unique_configs": 2,
+        "avg_response_time": 0.97,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 86.04,
+        "last_success": "2025-02-07T22:18:26.254741+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
+          "vless://": 1,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
