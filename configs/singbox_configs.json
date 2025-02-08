@@ -79,9 +79,11 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "vless-5ff1c326",
-        "vless-ffe44b2f",
-        "vless-953c35f4",
+        "vless-b79fa67e",
+        "vless-b7f2875b",
+        "vless-341d9d8f",
+        "trojan-cc3119e3",
+        "trojan-4a682ac5",
         "direct"
       ]
     },
@@ -89,9 +91,11 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "vless-5ff1c326",
-        "vless-ffe44b2f",
-        "vless-953c35f4"
+        "vless-b79fa67e",
+        "vless-b7f2875b",
+        "vless-341d9d8f",
+        "trojan-cc3119e3",
+        "trojan-4a682ac5"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -103,47 +107,47 @@
     },
     {
       "type": "vless",
-      "tag": "vless-5ff1c326",
-      "server": "www.speedtest.net",
+      "tag": "vless-b79fa67e",
+      "server": "104.21.56.44",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "rahiM.PooriaorG3.worKErS.DeV",
+        "server_name": "REDw.pOOriam.Ir",
         "insecure": true
       },
       "transport": {
-        "path": "/QiQYw4XdJILMbmRF?ed=2560",
+        "path": "/lEFyQrUjV1vd1dkU?ed=2560",
         "headers": {
-          "Host": "rAhIm.POorIAoRG3.wOrKERS.dEV"
+          "Host": "redw.pooriam.ir"
         },
         "type": "ws"
       }
     },
     {
       "type": "vless",
-      "tag": "vless-ffe44b2f",
+      "tag": "vless-b7f2875b",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
       "flow": "",
       "tls": {
         "enabled": true,
-        "server_name": "poOria304.dIYONE7732.wORkErs.DEV",
+        "server_name": "REdw.pOoRIaM.ir",
         "insecure": true
       },
       "transport": {
-        "path": "/Syh6KWSdKDHaB6vB?ed=2560",
+        "path": "/JF1XisQEbWZpxEHh?ed=2560",
         "headers": {
-          "Host": "pooria304.diyone7732.workers.dev"
+          "Host": "redw.pooriam.ir"
         },
         "type": "ws"
       }
     },
     {
       "type": "vless",
-      "tag": "vless-953c35f4",
+      "tag": "vless-341d9d8f",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -154,10 +158,47 @@
         "insecure": true
       },
       "transport": {
-        "path": "/cdv4tgOZ5bTb7Nm5?ed=2560",
+        "path": "/LwW5jwrnymnOdqki?ed=2560",
         "headers": {
-          "Host": "pooria304.diyone7732.workers.dev"
+          "Host": "redw.pooriam.ir"
         },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "trojan-cc3119e3",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "password": "Pooria",
+      "tls": {
+        "enabled": true,
+        "server_name": "REdw.pOoRIaM.ir",
+        "alpn": [
+          "h2",
+          "http/1.1"
+        ],
+        "insecure": true
+      },
+      "transport": {
+        "path": "/trJF1XisQEbWZpxEHh?ed=2560",
+        "type": "ws"
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "trojan-4a682ac5",
+      "server": "www.speedtest.net",
+      "server_port": 80,
+      "password": "Pooria",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.speedtest.net",
+        "alpn": [],
+        "insecure": true
+      },
+      "transport": {
+        "path": "/trLwW5jwrnymnOdqki?ed=2560",
         "type": "ws"
       }
     }

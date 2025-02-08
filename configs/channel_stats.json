@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-08T10:12:06.339582+00:00",
+  "timestamp": "2025-02-08T11:09:39.345733+00:00",
   "channels": [
     {
       "url": "https://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv#pooria1",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.35,
-        "last_success": "2025-02-08T10:11:51.339883+00:00",
+        "last_success": "2025-02-08T11:09:29.954917+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.82,
-        "last_success": "2025-02-08T10:11:53.460921+00:00",
+        "last_success": "2025-02-08T11:09:32.075577+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -58,7 +58,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.82,
-        "last_success": "2025-02-08T10:11:55.582009+00:00",
+        "last_success": "2025-02-08T11:09:34.196174+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -81,7 +81,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.82,
-        "last_success": "2025-02-08T10:11:57.700194+00:00",
+        "last_success": "2025-02-08T11:09:36.315350+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -97,21 +97,21 @@
       "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
       "enabled": true,
       "metrics": {
-        "total_configs": 9,
-        "valid_configs": 3,
-        "unique_configs": 3,
-        "avg_response_time": 6.64,
+        "total_configs": 25,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 1.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.38,
-        "last_success": "2025-02-08T10:12:06.338871+00:00",
+        "overall_score": 78.46,
+        "last_success": "2025-02-08T11:09:39.344880+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 3,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
