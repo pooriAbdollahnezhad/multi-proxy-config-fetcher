@@ -79,8 +79,9 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "vless-f1ae459c",
-        "vless-12e295db",
+        "vless-bb231a2b",
+        "vless-9dda6d8f",
+        "vless-89fc7228",
         "direct"
       ]
     },
@@ -88,8 +89,9 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "vless-f1ae459c",
-        "vless-12e295db"
+        "vless-bb231a2b",
+        "vless-9dda6d8f",
+        "vless-89fc7228"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -101,7 +103,27 @@
     },
     {
       "type": "vless",
-      "tag": "vless-f1ae459c",
+      "tag": "vless-bb231a2b",
+      "server": "www.speedtest.net",
+      "server_port": 443,
+      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
+      "flow": "",
+      "tls": {
+        "enabled": true,
+        "server_name": "rahiM.PooriaorG3.worKErS.DeV",
+        "insecure": true
+      },
+      "transport": {
+        "path": "/QiQYw4XdJILMbmRF?ed=2560",
+        "headers": {
+          "Host": "rAhIm.POorIAoRG3.wOrKERS.dEV"
+        },
+        "type": "ws"
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "vless-9dda6d8f",
       "server": "www.speedtest.net",
       "server_port": 443,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
@@ -121,7 +143,7 @@
     },
     {
       "type": "vless",
-      "tag": "vless-12e295db",
+      "tag": "vless-89fc7228",
       "server": "www.speedtest.net",
       "server_port": 80,
       "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
