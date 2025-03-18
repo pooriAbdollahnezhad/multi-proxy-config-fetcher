@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-18T10:14:28.102103+00:00",
+  "timestamp": "2025-03-18T11:11:34.307262+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.71,
-        "last_success": "2025-03-18T10:14:18.705400+00:00",
+        "last_success": "2025-03-18T11:11:25.055506+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 169,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.06,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.47,
-        "last_success": "2025-03-18T10:14:20.716196+00:00",
+        "overall_score": 76.4,
+        "last_success": "2025-03-18T11:11:27.113841+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -97,21 +97,21 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 133,
-        "valid_configs": 106,
-        "unique_configs": 106,
-        "avg_response_time": 0.36,
+        "total_configs": 121,
+        "valid_configs": 104,
+        "unique_configs": 104,
+        "avg_response_time": 0.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.39,
-        "last_success": "2025-03-18T10:14:28.101298+00:00",
+        "overall_score": 96.06,
+        "last_success": "2025-03-18T11:11:34.306605+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 4,
-          "vless://": 84,
+          "hysteria2://": 1,
+          "vless://": 89,
           "vmess://": 0,
-          "ss://": 17,
-          "trojan://": 1,
+          "ss://": 14,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
