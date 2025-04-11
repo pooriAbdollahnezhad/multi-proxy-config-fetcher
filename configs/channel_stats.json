@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-11T06:20:03.021859+00:00",
+  "timestamp": "2025-04-11T07:13:45.744463+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.72,
-        "last_success": "2025-04-11T06:19:51.733337+00:00",
+        "overall_score": 77.73,
+        "last_success": "2025-04-11T07:13:33.897913+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -34,8 +34,8 @@
         "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.88,
-        "last_success": "2025-04-11T06:19:53.869893+00:00",
+        "overall_score": 76.87,
+        "last_success": "2025-04-11T07:13:36.039180+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 36,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.06,
-        "last_success": "2025-04-11T06:19:55.943006+00:00",
+        "overall_score": 78.94,
+        "last_success": "2025-04-11T07:13:38.191747+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 5,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.8,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.21,
-        "last_success": "2025-04-11T06:19:58.558564+00:00",
+        "overall_score": 83.8,
+        "last_success": "2025-04-11T07:13:41.030376+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
