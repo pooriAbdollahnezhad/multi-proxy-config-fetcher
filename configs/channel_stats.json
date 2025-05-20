@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-20T12:29:55.345863+00:00",
+  "timestamp": "2025-05-20T13:28:31.178182+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.53,
-        "last_success": "2025-05-20T12:29:43.750312+00:00",
+        "overall_score": 77.72,
+        "last_success": "2025-05-20T13:28:19.582159+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 76.84,
-        "last_success": "2025-05-20T12:29:45.915373+00:00",
+        "last_success": "2025-05-20T13:28:21.743984+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 16,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.25,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.87,
-        "last_success": "2025-05-20T12:29:48.168870+00:00",
+        "overall_score": 81.03,
+        "last_success": "2025-05-20T13:28:23.894385+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 8,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.77,
-        "last_success": "2025-05-20T12:29:55.345174+00:00",
+        "overall_score": 99.72,
+        "last_success": "2025-05-20T13:28:31.177519+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
