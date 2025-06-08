@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-08T19:11:07.480312+00:00",
+  "timestamp": "2025-06-08T20:14:41.860538+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
@@ -11,8 +11,8 @@
         "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.7,
-        "last_success": "2025-06-08T19:10:56.361529+00:00",
+        "overall_score": 77.71,
+        "last_success": "2025-06-08T20:14:30.633093+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 144,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.97,
-        "last_success": "2025-06-08T19:10:58.440421+00:00",
+        "overall_score": 76.94,
+        "last_success": "2025-06-08T20:14:32.728362+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 25,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.85,
-        "last_success": "2025-06-08T19:11:00.543265+00:00",
+        "overall_score": 78.88,
+        "last_success": "2025-06-08T20:14:34.807661+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -126,8 +126,8 @@
         "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.52,
-        "last_success": "2025-06-08T19:11:07.479597+00:00",
+        "overall_score": 84.53,
+        "last_success": "2025-06-08T20:14:41.859988+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
